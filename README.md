@@ -1,2 +1,14 @@
-# Ecocircuit
-Smart Waste Management System that aims to make the process of waste collection more efficient. The system utilizes waste bins and manages them through mobile and web applications. With the help of the system, users can easily check the status of the bins and follow a schedule for waste collection based on the bin's status.
+# EcoCircuit
+
+EcoCircuit is an e-waste lifecycle management web platform developed as a university Software Engineering project.
+
+Core modules:
+- User authentication and role-based access
+- E-waste submission and collection
+- Pickup and drop-off coordination
+- Recycling facility discovery
+- Device inspection and processing routes
+- Recovered-component inventory
+- Environmental-impact reporting
+
+Development will follow the approved Software Engineering project proposal.
